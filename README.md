@@ -11,7 +11,7 @@ All credit should be given to the following person for coming up with this examp
 # Installation
 Clone the repository
 ```
-git clone https://github.com/codylane/virtualenv-auto-activate.git $HOME/
+git clone https://github.com/codylane/virtualenv-auto-activate.git $HOME/virtualenv-auto-activate
 ```
 
 Add this to the end of your ~/.bashrc
